@@ -61,8 +61,7 @@ admin.site.register(blinkit,blinkitadmin)
 
 
 ## OUTPUT
-![alt text](image.png)
-
+![alt text](image-2.png)
 
 ## RESULT
 Thus the program for creating Online Food Delivery Database using ORM hass been executed successfully
